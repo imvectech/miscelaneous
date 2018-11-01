@@ -1,6 +1,8 @@
 #!/bin/bash
 # file: daemon.sh
 #
+# THIS SCRIPT IS PART OF THE WITTY PI 2 SOFTWARE BY UUGEAR.com
+#
 # This script should be auto started, to support WittyPi hardware
 #
 
