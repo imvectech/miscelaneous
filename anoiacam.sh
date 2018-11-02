@@ -12,6 +12,7 @@ apt-get install python-pip
 apt-get install python-picamera
 pip install DateTime
 apt-get install git
+mkdir /home/pi/pictures
 mkdir /home/wittypi
 yes | git clone https://github.com/uugear/Witty-Pi-2.git /home/wittypi
 chmod +1 /home/wittypi/installWittyPi.sh
